@@ -11,7 +11,7 @@ post_date: 2018-01-02 22:53:42
 ---
 [tabby title="Posts"]
 
-Tabby ipsum dolor sit amet, kitty sunbathe dolor, feed me.
+[ic_add_posts category='Big Pivot 2018']
 
 [tabby title="Web Links"]
 
