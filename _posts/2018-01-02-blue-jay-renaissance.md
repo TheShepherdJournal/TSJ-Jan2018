@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-01-02 21:32:50
 ---
-<img title="" src="http://shepherdjournal.shepherdmaplesyrupfestival.com/wp-content/uploads/2018/01/null-9.png" alt="" width="624" height="468" />
+&nbsp;
 
 From the Shepherd Middle School Facebook page, “We hope everyone had a great holiday break and we look forward to seeing all of you tomorrow back at school!! Please make sure to dress warm and to be ready to learn right at 8am...as we know that you all are excited to wake up early again!!
 
