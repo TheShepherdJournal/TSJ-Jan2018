@@ -15,7 +15,7 @@ post_date: 2018-01-02 22:53:42
 
 [tabby title="Web Links"]
 
-Lay down in your way catnip stuck in a tree, sunbathe kittens.
+[qcopd-directory mode="one" list_id="1117"]
 
 [tabby title="Submit"]
 
