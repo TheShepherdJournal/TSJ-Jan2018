@@ -19,6 +19,6 @@ Lay down in your way catnip stuck in a tree, sunbathe kittens.
 
 [tabby title="Submit"]
 
-sleep in the sink climb the curtains attack, give me fish.
+[user-submitted-posts]
 
 [tabbyending]
