@@ -11,8 +11,6 @@ permalink: >
 published: true
 post_date: 2018-01-02 19:18:42
 ---
-&nbsp;
-
 Here are some key upcoming information for 2018 SHS Graduates:
 <h2>Dates</h2>
 <ul>
