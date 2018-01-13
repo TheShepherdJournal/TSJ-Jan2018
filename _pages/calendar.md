@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2018-01-12 20:56:36
 ---
-&lt;?php echo do_shortcode('[Total_Soft_Cal id="1"]');?&gt;
+[Total_Soft_Cal id="7"]
