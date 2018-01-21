@@ -11,4 +11,4 @@ post_date: 2017-10-04 01:44:14
 ---
 Use the form below to submit a news story, suggestions, or news tip. You can also email information to <a href="mailto:editor@shepherdhistory.org">editor@shepherdhistory.org</a>.
 
-[user-submitted-posts]
+[wpuf_form id="960"]
