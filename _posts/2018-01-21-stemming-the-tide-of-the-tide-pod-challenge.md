@@ -17,7 +17,7 @@ The Internet has impacted society in a lot of positive ways, through technologic
 “"It can go through skin, it can eat through eyes, it can eat through mouth, it can eat through the esophagus and through the lungs to the point where deaths have been reported," Dr. Gomez warned.”
 
 I have no words...</blockquote>
-The "challenge" is to put a Tide Pod in your mouth, like it's a dare or something I guess. Unlike the ice bucket challenge, which seemed a little strange but grew on someone once they understood it better, the behavior that's being encouraged so super dangerous and reckless...there really are no words for it.
+<!--more-->The "challenge" is to put a Tide Pod in your mouth, like it's a dare or something I guess. Unlike the ice bucket challenge, which seemed a little strange but grew on someone once they understood it better, the behavior that's being encouraged so super dangerous and reckless...there really are no words for it.
 
 All I know about the pods (we also use pods for our dishwasher) is that you toss them in when you're doing the laundry or the dishes, and the chemicals they contain are slowly released. Perhaps it's the same principle as medicine capsules.
 
